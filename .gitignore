@@ -1,0 +1,13 @@
+target/
+data/
+.m2/
+.idea/
+.vscode/*
+!.vscode/
+!.vscode/launch.json
+*.iml
+.env
+.DS_Store
+*.log
+*.mv.db
+*.trace.db
